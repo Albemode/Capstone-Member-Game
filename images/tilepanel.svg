@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  x="-0.055" y="-100.175" height="100.182" width="100.055" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Layer_2">
+	<radialGradient id="SVGID_1_" cx="50" cy="50" r="50" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#70CCCC"/>
+		<stop  offset="1" style="stop-color:#7AEBFF"/>
+		<a:midPointStop  offset="0" style="stop-color:#70CCCC"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#70CCCC"/>
+		<a:midPointStop  offset="1" style="stop-color:#7AEBFF"/>
+	</radialGradient>
+	<rect opacity="0.73" fill="url(#SVGID_1_)" width="100" height="100"/>
+</g>
+<g id="Layer_1">
+	<radialGradient id="SVGID_2_" cx="6.2041" cy="44.9717" r="13.4505" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="1.556" y="26.526" opacity="0.6" fill="url(#SVGID_2_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.891"/>
+	<radialGradient id="SVGID_3_" cx="55.9434" cy="38.1152" r="13.1356" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="53.739" y="19.67" opacity="0.6" fill="url(#SVGID_3_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.89"/>
+	<radialGradient id="SVGID_4_" cx="22.9258" cy="45.7441" r="13.1638" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="20.407" y="27.299" opacity="0.6" fill="url(#SVGID_4_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.89"/>
+	<radialGradient id="SVGID_5_" cx="30.8701" cy="38.1152" r="13.2249" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="27.777" y="19.67" opacity="0.6" fill="url(#SVGID_5_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.89"/>
+	<radialGradient id="SVGID_6_" cx="50.8701" cy="46.4858" r="26.4503" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="49.259" y="9.114" opacity="0.6" fill="url(#SVGID_6_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.743"/>
+	<radialGradient id="SVGID_7_" cx="22.9258" cy="22.3369" r="13.3562" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="18.852" y="3.893" opacity="0.6" fill="url(#SVGID_7_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	<radialGradient id="SVGID_8_" cx="39.6665" cy="23.5225" r="13.5063" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="34.704" y="5.078" opacity="0.6" fill="url(#SVGID_8_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.889"/>
+	<radialGradient id="SVGID_9_" cx="24.2041" cy="52.9717" r="13.4505" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="19.556" y="34.526" opacity="0.6" fill="url(#SVGID_9_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.891"/>
+	<radialGradient id="SVGID_10_" cx="73.9434" cy="46.1152" r="13.1356" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="71.739" y="27.67" opacity="0.6" fill="url(#SVGID_10_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.89"/>
+	<radialGradient id="SVGID_11_" cx="40.9258" cy="53.7441" r="13.1638" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="38.407" y="35.299" opacity="0.6" fill="url(#SVGID_11_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.89"/>
+	<radialGradient id="SVGID_12_" cx="48.8701" cy="46.1152" r="13.2249" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="45.777" y="27.67" opacity="0.6" fill="url(#SVGID_12_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.89"/>
+	<radialGradient id="SVGID_13_" cx="68.8701" cy="54.4863" r="26.4499" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="67.259" y="17.114" opacity="0.6" fill="url(#SVGID_13_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.743"/>
+	<radialGradient id="SVGID_14_" cx="40.9258" cy="30.3369" r="13.3562" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="36.852" y="11.893" opacity="0.6" fill="url(#SVGID_14_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	<radialGradient id="SVGID_15_" cx="57.666" cy="31.5225" r="13.5063" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="52.703" y="13.078" opacity="0.6" fill="url(#SVGID_15_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.889"/>
+</g>
+<g id="Layer_3">
+	<g>
+		<radialGradient id="SVGID_16_" cx="25.0186" cy="41.0762" r="13.4492" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="20.371" y="22.633" opacity="0.6" fill="url(#SVGID_16_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.886"/>
+		<radialGradient id="SVGID_17_" cx="74.7578" cy="34.2197" r="13.1335" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="72.554" y="15.777" opacity="0.6" fill="url(#SVGID_17_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.885"/>
+		<radialGradient id="SVGID_18_" cx="41.7402" cy="41.8486" r="13.1618" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="39.222" y="23.406" opacity="0.6" fill="url(#SVGID_18_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.885"/>
+		<radialGradient id="SVGID_19_" cx="49.6846" cy="34.2197" r="13.2228" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="46.592" y="15.777" opacity="0.6" fill="url(#SVGID_19_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.885"/>
+		<radialGradient id="SVGID_20_" cx="69.6846" cy="42.5898" r="26.4485" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="68.073" y="5.221" opacity="0.6" fill="url(#SVGID_20_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.738"/>
+		<radialGradient id="SVGID_21_" cx="41.7402" cy="18.4438" r="13.3562" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		<rect x="37.667" opacity="0.6" fill="url(#SVGID_21_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+		<radialGradient id="SVGID_22_" cx="58.4805" cy="19.6299" r="13.506" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="53.518" y="1.185" opacity="0.6" fill="url(#SVGID_22_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.889"/>
+		<radialGradient id="SVGID_23_" cx="43.0186" cy="49.0762" r="13.4492" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="38.371" y="30.633" opacity="0.6" fill="url(#SVGID_23_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.886"/>
+		<radialGradient id="SVGID_24_" cx="92.7578" cy="42.2197" r="13.1335" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="90.554" y="23.777" opacity="0.6" fill="url(#SVGID_24_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.885"/>
+		<radialGradient id="SVGID_25_" cx="59.7402" cy="49.8486" r="13.1618" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="57.222" y="31.406" opacity="0.6" fill="url(#SVGID_25_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.885"/>
+		<radialGradient id="SVGID_26_" cx="67.6846" cy="42.2197" r="13.2228" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="64.592" y="23.777" opacity="0.6" fill="url(#SVGID_26_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.885"/>
+		<radialGradient id="SVGID_27_" cx="87.6846" cy="50.5898" r="26.4485" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="86.073" y="13.221" opacity="0.6" fill="url(#SVGID_27_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.738"/>
+		<radialGradient id="SVGID_28_" cx="59.7402" cy="26.4424" r="13.3555" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="55.666" y="8" opacity="0.6" fill="url(#SVGID_28_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.885"/>
+		<radialGradient id="SVGID_29_" cx="76.4805" cy="27.6274" r="13.5047" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#99CCFF"/>
+			<stop  offset="1" style="stop-color:#330033"/>
+			<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+			<a:midPointStop  offset="1" style="stop-color:#330033"/>
+		</radialGradient>
+		
+			<rect x="71.518" y="9.185" opacity="0.6" fill="url(#SVGID_29_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.885"/>
+	</g>
+</g>
+<g id="Layer_5">
+	<radialGradient id="SVGID_30_" cx="17.0186" cy="46.0762" r="13.4492" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="12.371" y="27.633" opacity="0.6" fill="url(#SVGID_30_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.886"/>
+	<radialGradient id="SVGID_31_" cx="36.8521" cy="57.665" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="34.648" y="39.222" opacity="0.6" fill="url(#SVGID_31_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.885"/>
+	<radialGradient id="SVGID_32_" cx="11.3706" cy="81.7295" r="13.1618" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="8.852" y="63.287" opacity="0.6" fill="url(#SVGID_32_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.885"/>
+	<radialGradient id="SVGID_33_" cx="45.7773" cy="81.5547" r="13.2228" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="42.685" y="63.112" opacity="0.6" fill="url(#SVGID_33_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.885"/>
+	
+		<radialGradient id="SVGID_34_" cx="98.3887" cy="37.4341" r="26.4482" gradientTransform="matrix(1 0 0 1.3395 0 -0.0213)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="96.777" y="0.066" opacity="0.6" fill="url(#SVGID_34_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="100.107"/>
+	<radialGradient id="SVGID_35_" cx="33.7402" cy="23.4438" r="13.3562" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	<rect x="29.667" y="5" opacity="0.6" fill="url(#SVGID_35_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	
+		<radialGradient id="SVGID_36_" cx="57.3711" cy="24.6294" r="13.5057" gradientTransform="matrix(1.9618 0 0 2.5431 -37.7918 -9.5407)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="65.022" y="6.191" opacity="0.6" fill="url(#SVGID_36_)"  a:adobe-blending-mode="colorDodge" width="19.472" height="93.809"/>
+	<radialGradient id="SVGID_37_" cx="37.8145" cy="81.5547" r="13.4492" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="33.167" y="63.112" opacity="0.6" fill="url(#SVGID_37_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.886"/>
+	<radialGradient id="SVGID_38_" cx="94.9619" cy="41.0752" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="92.758" y="22.633" opacity="0.6" fill="url(#SVGID_38_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_39_" cx="51.7402" cy="54.8486" r="13.1618" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="49.222" y="36.406" opacity="0.6" fill="url(#SVGID_39_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.885"/>
+	<radialGradient id="SVGID_40_" cx="31.9448" cy="60.665" r="13.2228" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="28.852" y="42.223" opacity="0.6" fill="url(#SVGID_40_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.885"/>
+	
+		<radialGradient id="SVGID_41_" cx="84.4619" cy="37.4336" r="26.4485" gradientTransform="matrix(1 0 0 1.3371 0 -0.0208)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="82.851" y="0.066" opacity="0.6" fill="url(#SVGID_41_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="99.931"/>
+	<radialGradient id="SVGID_42_" cx="60.1504" cy="72.4863" r="19.9227" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="54.072" y="44.976" opacity="0.6" fill="url(#SVGID_42_)"  a:adobe-blending-mode="colorDodge" width="12.155" height="55.022"/>
+	<radialGradient id="SVGID_43_" cx="53.7393" cy="81.5547" r="13.5047" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="48.776" y="63.111" opacity="0.6" fill="url(#SVGID_43_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.886"/>
+	<radialGradient id="SVGID_44_" cx="93.7588" cy="70.5137" r="13.4491" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="89.111" y="52.07" opacity="0.6" fill="url(#SVGID_44_)"  a:adobe-blending-mode="colorDodge" width="9.295" height="36.887"/>
+	<radialGradient id="SVGID_45_" cx="92.7578" cy="81.7295" r="13.4491" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="88.11" y="63.286" opacity="0.6" fill="url(#SVGID_45_)"  a:adobe-blending-mode="colorDodge" width="9.295" height="36.887"/>
+	<radialGradient id="SVGID_46_" cx="45" cy="81.7305" r="13.3558" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="40.926" y="63.286" opacity="0.6" fill="url(#SVGID_46_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	<radialGradient id="SVGID_47_" cx="49.9995" cy="18.4448" r="13.1617" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="47.481" y="0.002" opacity="0.6" fill="url(#SVGID_47_)"  a:adobe-blending-mode="colorDodge" width="5.036" height="36.885"/>
+	<radialGradient id="SVGID_48_" cx="93.7588" cy="18.4443" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="91.555" y="0.002" opacity="0.6" fill="url(#SVGID_48_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+</g>
+<g id="Layer_4">
+	
+		<radialGradient id="SVGID_49_" cx="5.2407" cy="26.769" r="13.4509" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="0.593" y="52.728" opacity="0.6" fill="url(#SVGID_49_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.892"/>
+	
+		<radialGradient id="SVGID_50_" cx="32.6113" cy="16.2124" r="13.1353" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="30.407" y="63.285" opacity="0.6" fill="url(#SVGID_50_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.89"/>
+	
+		<radialGradient id="SVGID_51_" cx="9.8887" cy="47.0649" r="13.1635" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="7.37" y="32.432" opacity="0.6" fill="url(#SVGID_51_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.89"/>
+	
+		<radialGradient id="SVGID_52_" cx="10.8521" cy="78.9531" r="13.2249" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="7.759" y="0.544" opacity="0.6" fill="url(#SVGID_52_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.89"/>
+	
+		<radialGradient id="SVGID_53_" cx="64.5918" cy="59.8281" r="26.4499" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="62.98" y="0.744" opacity="0.6" fill="url(#SVGID_53_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.743"/>
+	
+		<radialGradient id="SVGID_54_" cx="5.2412" cy="16.2134" r="13.3561" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="1.167" y="63.285" opacity="0.6" fill="url(#SVGID_54_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	
+		<radialGradient id="SVGID_55_" cx="25.4443" cy="16.3867" r="13.506" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="20.481" y="63.111" opacity="0.6" fill="url(#SVGID_55_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.889"/>
+	
+		<radialGradient id="SVGID_56_" cx="13.0186" cy="27.4292" r="13.4509" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="8.371" y="52.067" opacity="0.6" fill="url(#SVGID_56_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.892"/>
+	
+		<radialGradient id="SVGID_57_" cx="3.7603" cy="65.5098" r="13.1356" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="1.556" y="13.987" opacity="0.6" fill="url(#SVGID_57_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.89"/>
+	
+		<radialGradient id="SVGID_58_" cx="13.8892" cy="63.6582" r="13.1638" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="11.371" y="15.838" opacity="0.6" fill="url(#SVGID_58_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.89"/>
+	
+		<radialGradient id="SVGID_59_" cx="5.2407" cy="79.498" r="13.2242" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	<rect x="2.148" opacity="0.6" fill="url(#SVGID_59_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.89"/>
+	
+		<radialGradient id="SVGID_60_" cx="1.5562" cy="59.8281" r="26.4499" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="-0.055" y="0.744" opacity="0.6" fill="url(#SVGID_60_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.743"/>
+	
+		<radialGradient id="SVGID_61_" cx="18.8521" cy="29.436" r="13.3562" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="14.778" y="50.063" opacity="0.6" fill="url(#SVGID_61_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	
+		<radialGradient id="SVGID_62_" cx="18.8521" cy="16.2134" r="13.5057" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="13.889" y="63.285" opacity="0.6" fill="url(#SVGID_62_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.888"/>
+	<radialGradient id="SVGID_63_" cx="16.4077" cy="18.4453" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="14.204" y="0.003" opacity="0.6" fill="url(#SVGID_63_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_64_" cx="28.8521" cy="19.6709" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="26.648" y="1.229" opacity="0.6" fill="url(#SVGID_64_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_65_" cx="21.6665" cy="18.9893" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="19.462" y="0.547" opacity="0.6" fill="url(#SVGID_65_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_66_" cx="27" cy="18.4414" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="24.796" y="-0.001" opacity="0.6" fill="url(#SVGID_66_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.885"/>
+	<radialGradient id="SVGID_67_" cx="14.2036" cy="18.4453" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	<rect x="12" y="0.003" opacity="0.6" fill="url(#SVGID_67_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_68_" cx="31.9448" cy="18.4463" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="29.741" y="0.004" opacity="0.6" fill="url(#SVGID_68_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_69_" cx="8.3335" cy="18.4414" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="6.129" y="-0.001" opacity="0.6" fill="url(#SVGID_69_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+</g>
+<g id="Layer_6">
+	
+		<radialGradient id="SVGID_70_" cx="5.9072" cy="26.8892" r="13.4509" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="1.259" y="52.607" opacity="0.6" fill="url(#SVGID_70_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.892"/>
+	
+		<radialGradient id="SVGID_71_" cx="33.2778" cy="16.3325" r="13.1353" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="31.074" y="63.165" opacity="0.6" fill="url(#SVGID_71_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.89"/>
+	
+		<radialGradient id="SVGID_72_" cx="57.4346" cy="20.2471" r="13.1638" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="54.916" y="59.25" opacity="0.6" fill="url(#SVGID_72_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.891"/>
+	
+		<radialGradient id="SVGID_73_" cx="13.2676" cy="53.0098" r="13.2242" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="10.175" y="26.488" opacity="0.6" fill="url(#SVGID_73_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.89"/>
+	
+		<radialGradient id="SVGID_74_" cx="20.1279" cy="60.8223" r="26.4499" gradientTransform="matrix(1 0 0 -0.9967 0 97.8647)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="18.517" y="-0.003" opacity="0.6" fill="url(#SVGID_74_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.496"/>
+	
+		<radialGradient id="SVGID_75_" cx="5.9072" cy="16.3335" r="13.3562" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="1.833" y="63.165" opacity="0.6" fill="url(#SVGID_75_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	
+		<radialGradient id="SVGID_76_" cx="26.1108" cy="16.5068" r="13.506" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="21.148" y="62.991" opacity="0.6" fill="url(#SVGID_76_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.889"/>
+	
+		<radialGradient id="SVGID_77_" cx="13.6851" cy="27.5493" r="13.4509" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="9.037" y="51.947" opacity="0.6" fill="url(#SVGID_77_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.892"/>
+	
+		<radialGradient id="SVGID_78_" cx="6.1758" cy="39.5664" r="13.1356" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="3.972" y="39.931" opacity="0.6" fill="url(#SVGID_78_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.89"/>
+	
+		<radialGradient id="SVGID_79_" cx="16.3047" cy="37.7148" r="13.1638" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="13.786" y="41.782" opacity="0.6" fill="url(#SVGID_79_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.891"/>
+	
+		<radialGradient id="SVGID_80_" cx="7.6563" cy="53.5537" r="13.2242" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="4.564" y="25.944" opacity="0.6" fill="url(#SVGID_80_)"  a:adobe-blending-mode="colorDodge" width="6.185" height="36.889"/>
+	
+		<radialGradient id="SVGID_81_" cx="3.9722" cy="33.8823" r="26.4503" gradientTransform="matrix(1 0 0 -0.9816 0 96.6305)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="2.361" y="26.688" opacity="0.6" fill="url(#SVGID_81_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="73.367"/>
+	
+		<radialGradient id="SVGID_82_" cx="19.5186" cy="29.5562" r="13.3562" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="15.444" y="49.942" opacity="0.6" fill="url(#SVGID_82_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	
+		<radialGradient id="SVGID_83_" cx="19.5186" cy="16.3335" r="13.5057" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="14.556" y="63.165" opacity="0.6" fill="url(#SVGID_83_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.888"/>
+	<radialGradient id="SVGID_84_" cx="18.8242" cy="44.3887" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="16.62" y="25.947" opacity="0.6" fill="url(#SVGID_84_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_85_" cx="31.2676" cy="45.6143" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="29.063" y="27.172" opacity="0.6" fill="url(#SVGID_85_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_86_" cx="24.082" cy="44.9326" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="21.878" y="26.491" opacity="0.6" fill="url(#SVGID_86_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_87_" cx="29.416" cy="44.3848" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="27.212" y="25.943" opacity="0.6" fill="url(#SVGID_87_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_88_" cx="16.6191" cy="44.3892" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="14.415" y="25.947" opacity="0.6" fill="url(#SVGID_88_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_89_" cx="34.3608" cy="44.3896" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="32.157" y="25.948" opacity="0.6" fill="url(#SVGID_89_)"  a:adobe-blending-mode="colorDodge" width="4.407" height="36.884"/>
+	<radialGradient id="SVGID_90_" cx="10.75" cy="44.3848" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="8.546" y="25.943" opacity="0.6" fill="url(#SVGID_90_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	
+		<radialGradient id="SVGID_91_" cx="38.394" cy="27.0073" r="13.4509" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="33.746" y="52.489" opacity="0.6" fill="url(#SVGID_91_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.892"/>
+	
+		<radialGradient id="SVGID_92_" cx="65.7646" cy="16.4507" r="13.1353" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="63.561" y="63.047" opacity="0.6" fill="url(#SVGID_92_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.89"/>
+	
+		<radialGradient id="SVGID_93_" cx="43.042" cy="47.3032" r="13.1635" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="40.523" y="32.194" opacity="0.6" fill="url(#SVGID_93_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.89"/>
+	
+		<radialGradient id="SVGID_94_" cx="44.0054" cy="79.1914" r="13.2249" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="40.913" y="0.306" opacity="0.6" fill="url(#SVGID_94_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.89"/>
+	
+		<radialGradient id="SVGID_95_" cx="97.7451" cy="60.0664" r="26.4499" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="96.134" y="0.505" opacity="0.6" fill="url(#SVGID_95_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.743"/>
+	
+		<radialGradient id="SVGID_96_" cx="38.3945" cy="16.4517" r="13.3561" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="34.32" y="63.047" opacity="0.6" fill="url(#SVGID_96_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	
+		<radialGradient id="SVGID_97_" cx="58.5977" cy="16.625" r="13.506" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="53.635" y="62.873" opacity="0.6" fill="url(#SVGID_97_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.889"/>
+	
+		<radialGradient id="SVGID_98_" cx="46.1719" cy="27.6675" r="13.4509" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="41.524" y="51.829" opacity="0.6" fill="url(#SVGID_98_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.892"/>
+	
+		<radialGradient id="SVGID_99_" cx="36.9136" cy="65.748" r="13.1356" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="34.709" y="13.749" opacity="0.6" fill="url(#SVGID_99_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.89"/>
+	
+		<radialGradient id="SVGID_100_" cx="47.0425" cy="63.8965" r="13.1638" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="44.524" y="15.6" opacity="0.6" fill="url(#SVGID_100_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.89"/>
+	
+		<radialGradient id="SVGID_101_" cx="38.394" cy="79.7363" r="13.2242" gradientTransform="matrix(1 0 0 -0.9668 0 95.9052)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="35.301" y="0.988" opacity="0.6" fill="url(#SVGID_101_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="35.664"/>
+	
+		<radialGradient id="SVGID_102_" cx="34.7095" cy="60.0664" r="26.4499" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="33.098" y="0.505" opacity="0.6" fill="url(#SVGID_102_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.743"/>
+	
+		<radialGradient id="SVGID_103_" cx="52.0059" cy="29.6743" r="13.3562" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="47.931" y="49.824" opacity="0.6" fill="url(#SVGID_103_)"  a:adobe-blending-mode="colorDodge" width="8.149" height="36.888"/>
+	
+		<radialGradient id="SVGID_104_" cx="52.0059" cy="16.4517" r="13.5057" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="47.042" y="63.047" opacity="0.6" fill="url(#SVGID_104_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.888"/>
+	
+		<radialGradient id="SVGID_105_" cx="49.5615" cy="18.2065" r="13.1332" gradientTransform="matrix(1 0 0 0.9815 0 0.6771)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="47.357" y="0.446" opacity="0.6" fill="url(#SVGID_105_)"  a:adobe-blending-mode="colorDodge" width="4.409" height="36.203"/>
+	<radialGradient id="SVGID_106_" cx="62.0049" cy="19.4326" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="59.801" y="0.99" opacity="0.6" fill="url(#SVGID_106_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_107_" cx="54.8193" cy="18.751" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="52.615" y="0.309" opacity="0.6" fill="url(#SVGID_107_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	
+		<radialGradient id="SVGID_108_" cx="60.1533" cy="18.2036" r="13.1335" gradientTransform="matrix(1 0 0 0.9937 0 0.231)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="57.949" y="-0.007" opacity="0.6" fill="url(#SVGID_108_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.652"/>
+	
+		<radialGradient id="SVGID_109_" cx="47.3569" cy="18.207" r="13.1332" gradientTransform="matrix(1 0 0 0.9853 0 0.5376)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="45.153" y="0.306" opacity="0.6" fill="url(#SVGID_109_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.343"/>
+	
+		<radialGradient id="SVGID_110_" cx="65.0977" cy="18.208" r="13.1332" gradientTransform="matrix(1 0 0 0.9853 0 0.5373)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="62.895" y="0.306" opacity="0.6" fill="url(#SVGID_110_)"  a:adobe-blending-mode="colorDodge" width="4.407" height="36.344"/>
+	
+		<radialGradient id="SVGID_111_" cx="41.4868" cy="18.2031" r="13.1332" gradientTransform="matrix(1 0 0 0.9667 0 1.2193)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="39.283" y="0.988" opacity="0.6" fill="url(#SVGID_111_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="35.657"/>
+	
+		<radialGradient id="SVGID_112_" cx="66.5381" cy="15.3638" r="13.1349" gradientTransform="matrix(1 0 0 -0.9737 0 97.0543)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="64.334" y="64.135" opacity="0.6" fill="url(#SVGID_112_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="35.92"/>
+	
+		<radialGradient id="SVGID_113_" cx="90.6943" cy="19.2783" r="13.1638" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="88.176" y="60.219" opacity="0.6" fill="url(#SVGID_113_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.891"/>
+	<radialGradient id="SVGID_114_" cx="64.5283" cy="46.5835" r="13.1332" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="62.324" y="28.142" opacity="0.6" fill="url(#SVGID_114_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_115_" cx="67.6211" cy="45.3589" r="13.1331" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="65.418" y="26.917" opacity="0.6" fill="url(#SVGID_115_)"  a:adobe-blending-mode="colorDodge" width="4.406" height="36.884"/>
+	
+		<radialGradient id="SVGID_116_" cx="71.6543" cy="26.0381" r="13.4506" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="67.006" y="53.459" opacity="0.6" fill="url(#SVGID_116_)"  a:adobe-blending-mode="colorDodge" width="9.297" height="36.891"/>
+	
+		<radialGradient id="SVGID_117_" cx="76.3018" cy="46.3345" r="13.1635" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="73.783" y="33.163" opacity="0.6" fill="url(#SVGID_117_)"  a:adobe-blending-mode="colorDodge" width="5.037" height="36.89"/>
+	
+		<radialGradient id="SVGID_118_" cx="77.2656" cy="78.2227" r="13.2242" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="74.173" y="1.275" opacity="0.6" fill="url(#SVGID_118_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.89"/>
+	
+		<radialGradient id="SVGID_119_" cx="71.6543" cy="15.4834" r="13.3565" gradientTransform="matrix(1 0 0 -0.977 0 97.1613)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="67.58" y="64.016" opacity="0.6" fill="url(#SVGID_119_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.039"/>
+	
+		<radialGradient id="SVGID_120_" cx="91.8574" cy="15.6563" r="13.506" gradientTransform="matrix(1 0 0 -0.9784 0 97.2063)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="86.895" y="63.842" opacity="0.6" fill="url(#SVGID_120_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.093"/>
+	
+		<radialGradient id="SVGID_121_" cx="79.4316" cy="26.6982" r="13.4506" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="74.784" y="52.799" opacity="0.6" fill="url(#SVGID_121_)"  a:adobe-blending-mode="colorDodge" width="9.296" height="36.891"/>
+	
+		<radialGradient id="SVGID_122_" cx="70.1738" cy="64.7793" r="13.1356" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="67.97" y="14.718" opacity="0.6" fill="url(#SVGID_122_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.889"/>
+	
+		<radialGradient id="SVGID_123_" cx="80.3027" cy="62.9277" r="13.1637" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="77.784" y="16.569" opacity="0.6" fill="url(#SVGID_123_)"  a:adobe-blending-mode="colorDodge" width="5.036" height="36.89"/>
+	
+		<radialGradient id="SVGID_124_" cx="71.6543" cy="78.7666" r="13.2242" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="68.562" y="0.731" opacity="0.6" fill="url(#SVGID_124_)"  a:adobe-blending-mode="colorDodge" width="6.186" height="36.89"/>
+	
+		<radialGradient id="SVGID_125_" cx="67.9697" cy="59.0967" r="26.4499" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="66.358" y="1.475" opacity="0.6" fill="url(#SVGID_125_)"  a:adobe-blending-mode="colorDodge" width="3.223" height="74.742"/>
+	
+		<radialGradient id="SVGID_126_" cx="85.2656" cy="28.7051" r="13.3562" gradientTransform="matrix(1 0 0 -1 0 97.9424)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="81.191" y="50.793" opacity="0.6" fill="url(#SVGID_126_)"  a:adobe-blending-mode="colorDodge" width="8.148" height="36.888"/>
+	
+		<radialGradient id="SVGID_127_" cx="85.2656" cy="15.4834" r="13.506" gradientTransform="matrix(1 0 0 -0.977 0 97.1613)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="80.303" y="64.016" opacity="0.6" fill="url(#SVGID_127_)"  a:adobe-blending-mode="colorDodge" width="9.926" height="36.039"/>
+	<radialGradient id="SVGID_128_" cx="82.8213" cy="19.1758" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="80.617" y="0.734" opacity="0.6" fill="url(#SVGID_128_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_129_" cx="95.2646" cy="20.4014" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="93.061" y="1.959" opacity="0.6" fill="url(#SVGID_129_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_130_" cx="88.0791" cy="19.7197" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="85.875" y="1.278" opacity="0.6" fill="url(#SVGID_130_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+	<radialGradient id="SVGID_131_" cx="93.4131" cy="19.1724" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="91.209" y="0.73" opacity="0.6" fill="url(#SVGID_131_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.885"/>
+	<radialGradient id="SVGID_132_" cx="80.6172" cy="19.1768" r="13.1331" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="78.413" y="0.734" opacity="0.6" fill="url(#SVGID_132_)"  a:adobe-blending-mode="colorDodge" width="4.407" height="36.884"/>
+	
+		<radialGradient id="SVGID_133_" cx="98.3594" cy="19.1768" r="13.1335" gradientTransform="matrix(0.8724 0 0 1 12.2695 0)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="96.154" y="0.735" opacity="0.6" fill="url(#SVGID_133_)"  a:adobe-blending-mode="colorDodge" width="3.846" height="36.884"/>
+	<radialGradient id="SVGID_134_" cx="74.7471" cy="19.1719" r="13.1335" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#99CCFF"/>
+		<stop  offset="1" style="stop-color:#330033"/>
+		<a:midPointStop  offset="0" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#99CCFF"/>
+		<a:midPointStop  offset="1" style="stop-color:#330033"/>
+	</radialGradient>
+	
+		<rect x="72.543" y="0.73" opacity="0.6" fill="url(#SVGID_134_)"  a:adobe-blending-mode="colorDodge" width="4.408" height="36.884"/>
+</g>
+</svg>
