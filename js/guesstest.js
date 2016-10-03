@@ -1,41 +1,14 @@
-
-
-
-// var timer  = 0;
-//  var timeLimit  = 60; // This is the time limit
- 
-//  function Update(){
-//     timer+=Time.deltaTime;
-//     if (timer >= timeLimit){
-
-
-
-
-
-
-
-
-
-
-
 var image_array = ["imagecircle.svg","imagecircle.svg","imagecomstar.svg","imagecomstar.svg","imagestars.svg","imagestars.svg","imageswirl.svg","imageswirl.svg","imagetrihole.svg","imagetrihole.svg","imagetriline.svg","imagetriline.svg","imageping.svg","imageping.svg","imageoplines.svg","imageoplines.svg","imagepleteop.svg","imagepleteop.svg","imagepletd.svg","imagepletd.svg"];
-var image_values = [];
+var images_values = [];
 var images_tile_ids = [];
-var tile_flip = 0;
+var tiles_flipped = 0;
 
-Array.prototype.memory_tile_shuffle = function() {
-	var i = this.length, j, temp;
-		while(--i >0) {
-			j = Math.floor(Math.random() * (i+1));
-			temp = 	this[j];
-					this[j] = this [i];
-					this[i] = temp; 
-	}
-}
-function new_cboard() {
-	tile_flip = 0;
-	var output = '';
-	console.log( image_array )
+function new_cBoard() {
+	tiles_flipped = 0;
+  image_array = _.shuffle(image_array);
+
+  var output = '';
+  console.log( image_array )
 		image_array.memory_tile_shuffle();
 		for (var i = 0; i < image_array.length; i++) {
 			 // output +='<div id="tile_'+i+' onclick="memoryFlipTile(this,\''+image_array[i]+'\')"></div>';
@@ -48,92 +21,111 @@ function new_cboard() {
 			memoryFlipTile(e,image_array[i]);
 		});
 	}); 
+  // _.forEach(image_array, function(image_array_value, index) {
+    // output += '<div id="tile_'+ index +'" onclick="memoryFlipTile(this,\''+ image_array_value +'\')"></div>';
+  // });
+
+	// document.getElementById('container_board').innerHTML = output;
 }
 
-function memoryFlipTile(tile,val) {
-	 console.log(tile, val)
-	tile.class = ""; // get rid of class
-	tile.style.backgroundImage = "url(images/"+val+")";
-	return;
-	if(tile.innerHTML && memory_values.length < 2) {
-		tile.style.background = '#FFF';
-		tile.innerHTML = val;
-		if(image_values.length == 0) {
-			image_values.push(val);
-			images_tile_ids.push(tile.id);
-		  }  else if (image_values.length == 1) {
-			// console.log(memoryFlipTile);			//try not equal to fix it
-			 image_values.push(val);
-			 images_tile_ids.push(tile.id);
-			 if(image_values[0] == image_values[1]) {
-			 	
-			 	tile_flip += 2;
-			 	image_values = [];			//this should clear array
-			 	images_tile_ids =[];		//this should clear array
-				 if(tile_flip == image_array.length) {
-				 	alert("board cleared... generating new board");
-				 	document.getElementById('container_board').innerHTML = "";
-				 	new_cboard();
-				 };
-			} else { //the seems to be in the wrong area
-				 function flip2back() {
-					 var tile_1 = document.getElementById(images_tile_ids[0]);
-					 var tile_2 = document.getElementById(images_tile_ids[1]);
-					 tile_1.style.background = ' url(../images/redmetal.jpg)) no-repeat';
-					 tile_1.innerHTML = "";
-					 tile_2.style.background = 'url(../images/redmetal.jpg)) no-repeat';
-					 tile_2.innerHTML = "";
-					 image_valuess = [];
-					images_tile_ids = [];
-					console.log(flip2back);
-			 	}
-			// } else {
-			// 	function flip2front(){
-			// 		var tile_1 = document.getElementById(images_tile_ids[0]);
-			// 		var tile_2 = document.getElementById(images_tile_ids[1]);
-			// 		 tile_1.style.background = ' url(../images/redmetal.jpg)) no-repeat';
-			// 		 tile_1.innerHTML = "";
-			// 		 tile_2.style.background = 'url(../images/redmetal.jpg)) no-repeat';
-			// 		 tile_2.innerHTML = "";
-			// 		 image_valuess = [];
-			// 		 images_tile_ids = [];
-			// 	}
-				setTimeout(flip2front, 700);
-			}
+function willFlipCard(tile) {
+  return tile.innerHTML == "" && images_values.length < 2;
+}
 
-			
-		}
-	}
-};
- //   }
- // }
+function isOneCardCarFlipped() {
+  return images_values.length == 1
+}
 
+function areNoCardsCarFlipped() {
+  return images_values.length == 0;
+}
 
+function setCarddownAsFlipped(tile, value) {
+  images_values.push(value);
+  images_tile_ids.push(tile.id);
+}
 
+function isThereAMatch() {
+  return images_values[0] == images_values[1];
+}
 
+function matchingCards() {
+  tiles_flipped += 2;
+  // Clear both arrays
+  images_values = [];
+  images_tile_ids = [];
+}
 
+function isDuelGameOver() {
+  // Check to see if the whole board is cleared
+  return tiles_flipped == image_array.length;
+}
 
- // var timelimit = null;
-	// function countDown() {
-	// 	countDown = setInterval(tick,1000);
- // 	}
+function duelgameIsOver() {
+  alert("Board cleared... generating new board");
+  document.getElementById('contianer_board').innerHTML = "";
+  new_cBoard();
+}
 
- // 	function tick() {
- // 		if (typeof countDownInterval.timecount == '')
-	// }
-	// 	else{
-	// 		countDownInterval.timecount++;
-	// 		console.log(timecount)
- // }
+function cardscarDoNotMatch() {
+  setTimeout(flipCardBack, 700);
+}
 
+function flipCard(tile, value) {
+  tile.style.background = '#FFF';
+  tile.innerHTML = value;
+}
 
+function flipCardBack() {
+  // Flip the 2 tiles back over
+  var tile_1 = document.getElementById(images_tile_ids[0]);
+  var tile_2 = document.getElementById(images_tile_ids[1]);
+  tile_1.style.background = 'url(../images/redmetal.jpg)) no-repeat';
+  tile_1.innerHTML = "";
+  tile_2.style.background = 'url(../images/redmetal.jpg)) no-repeat';
+  tile_2.innerHTML = "";
 
+  // Clear both arrays
+  images_values = [];
+  images_tile_ids = [];
+}
 
+function memoryFlipTile(tile, value) {
+	if (willFlipCard(tile)) {
+		flipCard(tile, value);
+    if (areNoCardscarFlipped()) {
+			setCarddownAsFlipped(tile, value);
+		} else if(isOneCardcarFlipped()) {
+      setCardAsFlipped(tile, value);
+      if(isThereAMatch()) {
+        matchingCards();
+        if (isduelGameOver()) {
+          duelgameIsOver();
+        }
+      } else {
+  			cardscarDoNotMatch();
+      }
+    }
+  }
+}
 
-
-
-
-
-
-
-
+function memoryFlipTile2(tile, value) {
+  if (willFlipCard(tile)) {
+    console.log('e1');
+    flipCard(tile, value);
+    setCarddownAsFlipped(tile, value);
+    if (isOneCardcarFlipped()) {
+      console.log('e2');
+      if (isThereAMatch()) {
+        console.log('e3');
+        matchingCards();
+        if (isduelGameOver()) {
+          console.log('e4');
+          duelgameIsOver();
+        }
+      } else {
+        cardscarDoNotMatch();
+      }
+    }
+  }
+}

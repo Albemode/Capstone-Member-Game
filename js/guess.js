@@ -32,22 +32,22 @@ function new_cboard() {
 
 function memoryFlipTile(tile,val) {
 	 console.log(tile, val)
-	tile.class = ""; // get rid of class
-	tile.style.backgroundImage = "url(images/"+val+")";
-	return;
-	if(tile.innerHTML == "" && memory_values.length < 2) {
-		tile.style.background = '#FFF';
-		tile.innerHTML = val;
+	 tile.class = ""; // get rid of class
+	 tile.style.backgroundImage = "url(images/"+val+")";
+	 return;
+	if(tile.innerHTML == "" && image_values.length < 2) {
+			tile.style.background = '#FFF';
+			tile.innerHTML = val;
 		if(image_values.length == 0) {
-			image_values.push(val);
-			images_tile_ids.push(tile.id);
-		} else if (image_values.length == 0) {
-			image_values.push(val);
-			images_tile_ids.push(tile.id);
+				image_values.push(val);
+			 	images_tile_ids.push(tile.id);
+		  } else if (image_values.length == 1) {
+	 			image_values.push(val);
+				images_tile_ids.push(tile.id);
 			if(image_values[0] == image_values[1]) {
-				tile_flip += 2;
-				image_values = [];
-				images_tile_ids =[];
+					tile_flip += 2;
+					image_values = [];
+					images_tile_ids =[];
 				if(tile_flip == image_array.length) {
 					alert("board cleared... generating new board");
 					document.getElementById('container_board').innerHTML = "";

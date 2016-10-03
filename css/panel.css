@@ -7,7 +7,7 @@ body {
 
 }
 
-#container_board {
+div#container_board {
 	background-color: #ccc;
 	border: #999 1px solid;
 	width: 630px;
@@ -16,20 +16,18 @@ body {
 	margin: 0px auto
 }
 
-div#container_board >div{
-/*	background-image: url(images/redmetal.jpg);
-	background-repeat: no-repeat;
-	border: #000 1px solid;*/
-	width: 71px;
-	height: 71px;
-	float: left;
-	margin: 10px;
-	padding: 20px;
-/*	font-size: 64px;
-	cursor: pointer;
-	text-align: center;*/
+div#memory_board > div {
+  background: #FF3399;
+  border: #000 1px solid;
+  width: 71px;
+  height: 71px;
+  float: left;
+  margin: 10px;
+  padding: 20px;
+  font-size: 64px;
+  cursor: pointer;
+  text-align: center;
 }
-
 .minibox {
 	background-image: url(../images/redmetal.jpg);
 	background-size: cover;
