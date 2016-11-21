@@ -68,9 +68,9 @@ function memoryFlipTile(tile,val){
 				    // Flip the 2 tiles back over
 				    var tile_1 = document.getElementById(memory_tile_ids[0]);
 				    var tile_2 = document.getElementById(memory_tile_ids[1]);
-				    // tile_1.style.background = 'url(https://cdn2.iconfinder.com/data/icons/multimedia-26/24/multimedia-17-128.png) 88px 110px ';
+				     tile_1.style.background = 'url(https://cdn0.iconfinder.com/data/icons/30_Free_Black_ToolBar_Icons/40/Black_Remove.png) 88px 110px ';
             	    tile_1.innerHTML = "";
-				    // tile_2.style.background = 'url(https://cdn0.iconfinder.com/data/icons/ice-cream-cone-emojis/522/ice-cream-cone-emoji-cartoon-029-128.png) 88px 110px ';
+				    tile_2.style.background = 'url(https://cdn0.iconfinder.com/data/icons/30_Free_Black_ToolBar_Icons/40/Black_Remove.png) 88px 110px ';
             	    tile_2.innerHTML = "";
 				    // Clear both arrays
 				    memory_values = [];

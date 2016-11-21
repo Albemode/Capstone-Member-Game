@@ -36,10 +36,10 @@ body{
 	top:20px;
 	background-color:rgba(100,203,215,0.8);
 	box-shadow:0 0 10px #fff,
-                   0 0 20px #fff,
-                   0 0 30px #fff,
+                   0 0 20px #F20E0E,
+                   0 0 30px #F20E0E,
                    0 0 40px #fff,
-                   0 0 70px #fff;
+                   0 0 70px #F20E0E;
 	border-radius:20px;
 	width:450px;
 	height:650px;
@@ -49,9 +49,9 @@ body{
 #memory > div{
     /*background:url('/*https://www.iconfinder.com/icons/103184/check_checkmark_ok_yes_icon#size=128*/') 88px 110px  ;*/
     position:relative;
-	box-shadow:0 0 10px #fff,
-                   0 0 20px #fff,
-                   0 0 30px #fff;
+	box-shadow:0 0 10px #F20E0E,
+                   0 0 20px #F20E0E,
+                   0 0 30px #F20E0E;
 	width:45px;
 	height:45px;
 	float:left;
