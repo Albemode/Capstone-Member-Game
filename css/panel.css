@@ -10,8 +10,8 @@ body {
 div#container_board {
 	background-color: #ccc;
 	border: #999 1px solid;
-	width: 630px;
-	height: 640px;
+	width: 480px;
+	height: 355px;
 	padding: 24px;
 	margin: 0px auto
 }

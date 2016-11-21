@@ -1,7 +1,7 @@
 var image_array = ["imagecircle.svg","imagecircle.svg","imagecomstar.svg","imagecomstar.svg","imagestars.svg","imagestars.svg","imageswirl.svg","imageswirl.svg","imagetrihole.svg","imagetrihole.svg","imagetriline.svg","imagetriline.svg","imageping.svg","imageping.svg","imageoplines.svg","imageoplines.svg","imagepleteop.svg","imagepleteop.svg","imagepletd.svg","imagepletd.svg"];
 var image_values = [];
 var images_tile_ids = [];
-var tile_flip = 0;
+var tile = 0;
 
 Array.prototype.memory_tile_shuffle = function() {
 	var i = this.length, j, temp;
@@ -13,7 +13,7 @@ Array.prototype.memory_tile_shuffle = function() {
 	}
 }
 function new_cboard() {
-	tile_flip = 0;
+	tile = 0;
 	var output = '';
 	console.log( image_array )
 		image_array.memory_tile_shuffle();
@@ -25,12 +25,12 @@ function new_cboard() {
 	document.getElementById('container_board').innerHTML = output;
 	Array.from(document.querySelectorAll(".minibox"), function( e, i ) {
 		e.addEventListener('click',function(){
-			memoryFlipTile(e,image_array[i]);
+			minibox(e,image_array[i]);
 		});
 	}); 
 }
 
-function memoryFlipTile(tile,val) {
+function minibox(tile,val) {
 	 console.log(tile, val)
 	 tile.class = ""; // get rid of class
 	 tile.style.backgroundImage = "url(images/"+val+")";
@@ -45,16 +45,18 @@ function memoryFlipTile(tile,val) {
 	 			image_values.push(val);
 				images_tile_ids.push(tile.id);
 			if(image_values[0] == image_values[1]) {
-					tile_flip += 2;
+					tile += 2;
 					image_values = [];
 					images_tile_ids =[];
-				if(tile_flip == image_array.length) {
+				if(tile == image_array.length) {
 					alert("board cleared... generating new board");
 					document.getElementById('container_board').innerHTML = "";
 					new_cboard();
 				}
 			} else {
 				function flip2back() {
+					var resetTiles = reset(filteredTiles.slice(0));
+					$timeout(resetTiles, $scope.delay);
 					var tile_1 = document.getElementById(images_tile_ids[0]);
 					var tile_2 = document.getElementById(images_tile_ids[1]);
 					tile_1.style.background = ' url(../images/redmetal.jpg)) no-repeat';
@@ -64,13 +66,13 @@ function memoryFlipTile(tile,val) {
 					image_valuess = [];
 					images_tile_ids = [];
 				}
-				 setTimeout(flip2back, 300);
+				 setTimeout(flip2back, 700);
 			}
 
 
 		}
 	}
-};
+}
 
 
 
@@ -90,9 +92,6 @@ function memoryFlipTile(tile,val) {
 	// 		countDownInterval.timecount++;
 	// 		console.log(timecount)
  // }
-
-
-
 
 
 

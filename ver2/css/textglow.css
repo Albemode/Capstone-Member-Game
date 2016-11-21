@@ -1,0 +1,88 @@
+
+
+footer{
+	position:relative;
+	top:40px;
+    text-align:center;
+	color:#fff;
+	text-shadow:   0 0 10px #327394f,
+                   0 0 20px #fff,
+                   0 0 30px #fff,
+                   0 0 40px #27394f;
+     font-family: "AR CENA";
+    font-size:16pt;
+}
+body{
+    background-color:black;
+}
+
+
+#titre{
+  text-align:center;
+  text-transform: uppercase;
+  color:#fff;
+  text-shadow:   0 0 10px #27394f,
+                   0 0 20px #fff,
+                   0 0 30px  #fff,
+                   0 0 40px  #27394f;
+
+  font-family:"cheri liney";
+  font-size:35pt;
+}
+
+	
+#memory{
+    position:relative;
+	top:20px;
+	background-color:rgba(100,203,215,0.8);
+	box-shadow:0 0 10px #fff,
+                   0 0 20px #fff,
+                   0 0 30px #fff,
+                   0 0 40px #fff,
+                   0 0 70px #fff;
+	border-radius:20px;
+	width:450px;
+	height:650px;
+	padding:24px;
+	margin:0px auto;
+}
+#memory > div{
+    /*background:url('/*https://www.iconfinder.com/icons/103184/check_checkmark_ok_yes_icon#size=128*/') 88px 110px  ;*/
+    position:relative;
+	box-shadow:0 0 10px #fff,
+                   0 0 20px #fff,
+                   0 0 30px #fff;
+	width:45px;
+	height:45px;
+	float:left;
+	margin:13px;
+	padding:20px;
+  /*background-size: cover;
+  background-origin: content-box;*/
+  /*background-repeat: no-repeat;*/
+	font-family:"cheri liney";
+	font-size:55px;
+	color: white;
+	border-radius:10px;
+	text-shadow:   0 0 10px red,
+                   0 0 20px red,
+                   0 0 30px  red,
+                   0 0 40px  red;
+	cursor:pointer;
+	text-align:center;
+}
+
+./*minibox {
+  background-image: url(images/redmetal.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: #000 1px solid;
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 10px;
+  padding: 20;
+  font-size: 64px;
+  cursor: pointer;
+  text-align: center;
+}*/
